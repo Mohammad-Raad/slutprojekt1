@@ -45,7 +45,7 @@ body{
 
 .prod_cont{
     display: flex;
-    flex-grow: 4;
+    flex-grow: 3;
 }
 
 .footer_box{
