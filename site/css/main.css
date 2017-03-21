@@ -43,6 +43,7 @@ body{
 .menu_box{
     display: flex;
     justify-content: space-around;
+    align-items: center;
     flex-direction: row;
     flex-grow: 0.73;
 }
@@ -66,4 +67,9 @@ body{
 .footer_box{
     display: flex;
     flex-grow: 1;
+}
+
+.alt{
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
 }
