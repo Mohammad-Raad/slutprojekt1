@@ -1,8 +1,7 @@
 html, body{
     margin: 0;
     padding: 0;
-    width: 100vw;
-    height: 100vh;
+
 }
 
 body{
@@ -11,6 +10,8 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #ffbff5;
+    width: 100vw;
+    height: 100vh;
 
 }
 
@@ -74,9 +75,21 @@ body{
     color: rgba(0,0,0,0.87);
 }
 
+.title_box{
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    font-size: 30px;
+    color: rgba(0,0,0,0.87);
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
 .nit_logo{
     width: 30%;
     height: 30%;
     margin-bottom: -20%;
-    margin-left: 5%;
+    margin-left: 4%;
 }
