@@ -90,12 +90,17 @@ body{
 .prod_box{
     display: flex;
     flex-direction: column;
+    margin-left: 5%;
+    outline: 2px solid lightgrey;
 }
 
 .prod_name{
     display: flex;
     justify-content: space-between;
     flex-direction: row;
+    background-color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 a, p{
@@ -104,6 +109,11 @@ a, p{
 
 .cost{
     font-style: italic;
+}
+
+.trend_title{
+    font-size: 20px;
+    margin-left: 5%;
 }
 
 .title{
