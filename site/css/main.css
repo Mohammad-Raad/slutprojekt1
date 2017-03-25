@@ -78,6 +78,18 @@ body{
 .title_box{
     display: flex;
     align-items: center;
+    flex-grow: 1;
+}
+
+.prod_holder{
+    display: flex;
+    flex-grow: 3;
+    flex-direction: row;
+}
+
+.prod_box{
+    display: flex;
+    flex-direction: column;
 }
 
 .title{
