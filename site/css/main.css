@@ -92,6 +92,20 @@ body{
     flex-direction: column;
 }
 
+.prod_name{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+a, p{
+    color: rgba(0,0,0,0.70);
+}
+
+.cost{
+    font-style: italic;
+}
+
 .title{
     font-size: 30px;
     color: rgba(0,0,0,0.87);
