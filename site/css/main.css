@@ -38,7 +38,7 @@ body{
 
 .nit_head{
     display: flex;
-    flex-grow: 1.5;
+    flex-grow: 2;
 }
 
 .menu_box{
@@ -47,7 +47,7 @@ body{
     align-items: center;
     flex-direction: row;
     height: 10%;
-    flex-grow: 0.73;
+    flex-grow: 1;
 }
 
 .page_cont{
@@ -164,8 +164,17 @@ a, p{
 
 .footer_box{
     display: flex;
-    align-items: center;
+    flex-direction: column;
     justify-content: flex-start;
+}
+
+.safe{
+    display: flex;
+    align-items: center;
+}
+
+.safe_img{
+    margin-left: 5%;
 }
 
 .footer{
