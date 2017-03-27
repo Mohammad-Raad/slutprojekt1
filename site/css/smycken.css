@@ -32,7 +32,6 @@ body{
     min-width: 50%;
     max-width: 55%;
     width: 60%;
-    height: 125%;
     background-color: white;
 }
 
@@ -65,6 +64,7 @@ body{
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
+    margin-top: 3%;
     padding: 5px;
 }
 
@@ -109,10 +109,7 @@ body{
     border: 2px solid lightgrey;
     border-radius: 2px;
     width: 200px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin: 5px 10px 5px 10px;
 }
 
 .prod_name{
@@ -148,21 +145,16 @@ a, p{
 .footer_box{
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: flex-end;
+    align-items: center;
+
 }
 
 .safe{
     display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
-}
-
-.safe_img{
-    margin-left: 5%;
-}
-
-.footer{
-    display: flex;
-    align-items: center;
-    margin-left: 5%;
-    margin-bottom: -2%;
+    margin-bottom: 3%;
 }
