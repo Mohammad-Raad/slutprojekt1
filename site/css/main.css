@@ -39,6 +39,7 @@ body{
 
 .nit_head{
     display: flex;
+    margin-left: 5%;
     height: 100px;
 }
 
