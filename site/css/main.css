@@ -58,6 +58,19 @@ body{
 
 .filter_box{
     display: flex;
+    margin: 10px 1px 1px 5%;
+}
+
+.filter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+    width: 100px;
+    height: 35px;
+    background-color: rgba(203,203,203,0.20);
+    color: rgba(0,0,0,0.87);
 }
 
 .prod_cont{
@@ -143,7 +156,6 @@ a, p{
     color: rgba(0,0,0,0.87);
     margin-left: 5%;
 }
-
 
 .footer_box{
     display: flex;
