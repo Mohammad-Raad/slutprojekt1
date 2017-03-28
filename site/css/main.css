@@ -104,7 +104,7 @@ body{
     margin-top: 3%;
 }
 
-.prod_box{
+.prod_box_t{
     display: flex;
     flex-direction: column;
     border: 2px solid lightgrey;
@@ -129,21 +129,8 @@ body{
     padding-bottom: 6%;
 }
 
-.prod_name{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    background-color: lightgrey;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
 a, p{
     color: rgba(0,0,0,0.70);
-}
-
-.cost{
-    font-style: italic;
 }
 
 .trend_title{
@@ -178,4 +165,28 @@ a, p{
     align-items: center;
     margin-left: 5%;
     margin-bottom: -2%;
+}
+
+.prod_box{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+    width: 200px;
+    margin: 10px 5px 5px 10px;
+}
+
+.prod_name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    background-color: lightgrey;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.cost{
+    font-style: italic;
+    margin-right: 5%;
 }
