@@ -10,7 +10,6 @@ body{
     align-items: center;
     background-color: #ffbff5;
     width: 100vw;
-    height: 100vh;
 }
 
 .container{
@@ -88,7 +87,6 @@ body{
 }
 
 .alt{
-    text-decoration: none;
     color: rgba(0,0,0,0.87);
 }
 
@@ -100,7 +98,6 @@ body{
 
 .prod_holder{
     display: flex;
-    flex-grow: 3;
     flex-direction: row;
 }
 
@@ -139,6 +136,7 @@ body{
 
 a, p{
     color: rgba(0,0,0,0.70);
+    text-decoration: none;
 }
 
 .trend_title{
@@ -155,16 +153,16 @@ a, p{
 .safe{
     display: flex;
     align-items: center;
+    flex-direction: row;
     justify-content: space-around;
+    width: 100%;
     margin: 10px;
 }
 
 .footer_box{
     display: flex;
     align-items: center;
-    margin-left: 5%;
     flex-direction: row;
-    justify-content: flex-start;
 }
 
 .prod_box{
@@ -188,5 +186,23 @@ a, p{
 
 .cost{
     font-style: italic;
-    margin-right: 5%;
+}
+
+.next_box{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 10px 5% 1px 5px;
+}
+
+.next{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+    width: 60px;
+    height: 30px;
+    background-color: rgba(203,203,203,0.20);
+    color: rgba(0,0,0,0.87);
 }
