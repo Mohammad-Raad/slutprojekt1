@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #ffbff5;
-    width: 100vw;
+    width: 100%;
 }
 
 .container{
@@ -29,7 +29,7 @@ body{
     flex-direction: column;
     min-width: 50%;
     max-width: 55%;
-    width: 60%;
+    width: 53%;
     height: 100%;
     background-color: white;
 }
@@ -148,6 +148,11 @@ a, p{
     font-size: 30px;
     color: rgba(0,0,0,0.87);
     margin-left: 5%;
+}
+
+.title_r{
+    color: rgba(0,0,0,0.57);
+    font-size: 23px;
 }
 
 .safe{
