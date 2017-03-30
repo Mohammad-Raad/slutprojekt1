@@ -151,8 +151,38 @@ a, p{
 }
 
 .title_r{
-    color: rgba(0,0,0,0.57);
+    color: rgba(0,0,0,0.87);
     font-size: 23px;
+    text-decoration: underline;
+}
+
+.kontakta_oss{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.kundvagn_r{
+    color: rgba(0,0,0,0.87);
+    display: flex;
+    justify-content: space-around;
+    margin: 2%;
+    font-size: 20px;
+}
+
+.kundvagn_p{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+}
+
+.info_om{
+    font-size: 15px;
+    font-style: italic;
+}
+
+.title_n{
+    font-size: 20px;
+
 }
 
 .safe{
