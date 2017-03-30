@@ -230,7 +230,7 @@ a, p{
     margin: 10px 5% 1px 5px;
 }
 
-.next{
+.next, .next_köp{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -240,4 +240,54 @@ a, p{
     height: 30px;
     background-color: rgba(203,203,203,0.20);
     color: rgba(0,0,0,0.87);
+}
+
+.next_köp{
+    width: 80px;
+    height: 50px;
+}
+
+.img_info{
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+    margin: 10px 5% 1px 5px;
+}
+
+.prod_info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px 5% 1px 5%;
+}
+
+.köp_info{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.prod_info_detail{
+    display: flex;
+    flex-grow: 1;
+    margin: 5%;
+    justify-content: center;
+    align-items: center;
+}
+
+.info_antal_köp{
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+
+#prod_antal_box{
+    width: 30px;
+    height: 20px;
+}
+
+.prod_pris, .prod_antal, .next_box{
+    
 }
