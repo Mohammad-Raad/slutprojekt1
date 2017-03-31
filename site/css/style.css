@@ -180,7 +180,7 @@ a, p{
     font-style: italic;
 }
 
-.title_n{
+.title_n, .cost_p{
     font-size: 20px;
 
 }
@@ -219,7 +219,7 @@ a, p{
     padding-bottom: 5px;
 }
 
-.cost{
+.cost, .cost_p{
     font-style: italic;
 }
 
@@ -271,6 +271,7 @@ a, p{
     display: flex;
     justify-content: space-around;
     flex-direction: row;
+
 }
 
 .prod_info_detail{
@@ -315,8 +316,4 @@ a, p{
 .prod_pris, .prod_antal, .next_box{
     margin-top: 3%;
     margin-bottom: 3%;
-}
-
-.prod_pris{
-    text-decoration: underline;
 }

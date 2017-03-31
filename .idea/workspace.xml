@@ -21,8 +21,8 @@
       <file leaf-file-name="produkt.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/produkt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-223">
-              <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+            <state relative-caret-position="281">
+              <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -31,8 +31,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="319" column="10" lean-forward="false" selection-start-line="319" selection-start-column="10" selection-end-line="319" selection-end-column="10" />
+            <state relative-caret-position="-979">
+              <caret line="185" column="1" lean-forward="false" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -66,6 +66,9 @@
       <find>prod_info_</find>
       <find>next_köp</find>
       <find>prod_pris</find>
+      <find>köp_in</find>
+      <find>font-size</find>
+      <find>cost_p</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,8 +88,8 @@
         <option value="$PROJECT_DIR$/site/css/main.css" />
         <option value="$PROJECT_DIR$/site/kontakta.html" />
         <option value="$PROJECT_DIR$/site/kundvagn.html" />
-        <option value="$PROJECT_DIR$/site/produkt.html" />
         <option value="$PROJECT_DIR$/site/css/style.css" />
+        <option value="$PROJECT_DIR$/site/produkt.html" />
       </list>
     </option>
   </component>
@@ -283,16 +286,16 @@
       <workItem from="1490717752383" duration="2409000" />
       <workItem from="1490793532262" duration="12213000" />
       <workItem from="1490866079215" duration="1759000" />
-      <workItem from="1490868203462" duration="6199000" />
+      <workItem from="1490868203462" duration="7549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88414000" />
+    <option name="totallyTimeSpent" value="89764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.250625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -596,16 +599,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/produkt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+        <state relative-caret-position="281">
+          <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="319" column="10" lean-forward="false" selection-start-line="319" selection-start-column="10" selection-end-line="319" selection-end-column="10" />
+        <state relative-caret-position="-979">
+          <caret line="185" column="1" lean-forward="false" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
           <folding />
         </state>
       </provider>
