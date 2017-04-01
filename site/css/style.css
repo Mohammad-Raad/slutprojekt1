@@ -311,6 +311,7 @@ a, p{
 #prod_antal_box{
     width: 40px;
     height: 20px;
+    text-indent: 36%;
 }
 
 .prod_pris, .prod_antal, .next_box{
