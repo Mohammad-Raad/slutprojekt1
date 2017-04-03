@@ -175,6 +175,20 @@ a, p{
     margin: 5%;
 }
 
+.sum_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.kundvagn_sum{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 5% 10px 5%;
+    height: 100px;
+}
+
 .kundvagn2_p{
     display: flex;
     flex-direction: row;
@@ -183,7 +197,7 @@ a, p{
     align-items: center;
     padding-left: 5%;
     padding-right: 10%;
-    margin: 3%;
+    margin: 10px 5% 10px 5%;
     border: 2px solid lightgrey;
     border-radius: 2px;
 }
