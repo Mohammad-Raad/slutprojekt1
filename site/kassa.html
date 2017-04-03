@@ -54,6 +54,24 @@
                     <a>Mobilnummer</a>
                     <input class="formular_fyll_1" type="text" placeholder="07XXXXXXXX">
                 </div>
+                <div class="formular">
+                    <a>Välj betalningssätt</a>
+                <div class="knappar">
+                    <button id="1" type="button" onclick=betalning()><img src="./img/Klarna-Logo.png"></button>
+                    <button id="2" type="button" onclick=betalning()><img src="./img/paypal.png"></button>
+                    <button id="3" type="button" onclick=betalning()><img src="./img/bitcoin.png"></button>
+                </div>
+                </div>
+                <div class="formular_s">
+                    <a class="text_s">Kreditkort info</a>
+                    <input class="formular_fyll_2_s" type="text" placeholder="Kreditkort nummer">
+                    <input class="formular_fyll_1_s" type="text" placeholder="CVV">
+                </div>
+                <div class="next_box">
+                    <div class="next_köp" onclick="location.href='./checkout.html'">
+                        <b class="next_köp_text">Slutför beställning</b>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="footer_box">
@@ -65,5 +83,6 @@
         </div>
     </div>
 </div>
+<script src="js/main.js"></script>
 </body>
 </html>

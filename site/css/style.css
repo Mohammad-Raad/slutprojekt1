@@ -388,3 +388,45 @@ a, p{
 .formular_fyll_1{
     width: 100px;
 }
+
+.knappar{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    justify-content: space-around;
+}
+
+#1, #2, #3{
+    width: 250px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.formular_s{
+    display: flex;
+    flex-direction: column;
+    margin: 1px 5% 1px 5%;
+}
+.formular_fyll_1_s, .formular_fyll_2_s{
+    width: 204px;
+    height: 20px;
+    border-radius: 1px;
+    border: solid lightgrey 1px;
+    box-shadow: inset 1px 1px 10px -6px rgba(0,0,0,0.75);
+    text-indent: 5px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    visibility: hidden;
+}
+
+.formular_fyll_1_s{
+    width: 50px;
+    visibility: hidden;
+}
+
+.text_s{
+    color: rgba(0,0,0,0.70);
+    text-decoration: none;
+    visibility: hidden;
+}
