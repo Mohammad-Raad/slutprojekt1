@@ -18,11 +18,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="produkt.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="produkt.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/produkt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="587">
-              <caret line="99" column="38" lean-forward="false" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
+            <state relative-caret-position="533">
+              <caret line="82" column="114" lean-forward="true" selection-start-line="82" selection-start-column="114" selection-end-line="82" selection-end-column="114" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kundvagn2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/kundvagn2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kundvagn.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/kundvagn.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -41,8 +61,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="313" column="19" lean-forward="false" selection-start-line="313" selection-start-column="19" selection-end-line="313" selection-end-column="19" />
+            <state relative-caret-position="576">
+              <caret line="319" column="1" lean-forward="false" selection-start-line="319" selection-start-column="1" selection-end-line="319" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -54,8 +74,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,6 +102,7 @@
       <find>cost_p</find>
       <find>cost</find>
       <find>a, p</find>
+      <find>alt</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,10 +122,11 @@
         <option value="$PROJECT_DIR$/site/kontakta.html" />
         <option value="$PROJECT_DIR$/site/kundvagn.html" />
         <option value="$PROJECT_DIR$/site/js/lysande kundvagn.js" />
+        <option value="$PROJECT_DIR$/site/smycken.html" />
         <option value="$PROJECT_DIR$/site/js/kundvagn.js" />
         <option value="$PROJECT_DIR$/site/css/style.css" />
-        <option value="$PROJECT_DIR$/site/smycken.html" />
         <option value="$PROJECT_DIR$/site/produkt.html" />
+        <option value="$PROJECT_DIR$/site/kundvagn2.html" />
       </list>
     </option>
   </component>
@@ -321,12 +343,12 @@
       <workItem from="1490866079215" duration="1759000" />
       <workItem from="1490868203462" duration="7549000" />
       <workItem from="1490970565466" duration="1893000" />
-      <workItem from="1491081488289" duration="3721000" />
+      <workItem from="1491081488289" duration="4918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95378000" />
+    <option name="totallyTimeSpent" value="96575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -361,14 +383,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/start.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1314">
@@ -609,17 +623,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/kundvagn.html">
+    <entry file="file://$PROJECT_DIR$/site/smycken.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="313" column="19" lean-forward="false" selection-start-line="313" selection-start-column="19" selection-end-line="313" selection-end-column="19" />
+        <state relative-caret-position="558">
+          <caret line="100" column="6" lean-forward="false" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -632,18 +639,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/smycken.html">
+    <entry file="file://$PROJECT_DIR$/site/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="100" column="6" lean-forward="false" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+        <state relative-caret-position="576">
+          <caret line="319" column="1" lean-forward="false" selection-start-line="319" selection-start-column="1" selection-end-line="319" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/produkt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="99" column="38" lean-forward="false" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
+        <state relative-caret-position="533">
+          <caret line="82" column="114" lean-forward="true" selection-start-line="82" selection-start-column="114" selection-end-line="82" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/kundvagn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/kundvagn2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
           <folding />
         </state>
       </provider>

@@ -26,7 +26,7 @@
                 <a class="alt" href="./kontakta.html"><b>Kontakta oss</b></a>
             </div>
             <div class="menu_alt">
-                <a class="alt" href="./kundvagn.html"><b>Kundvagn</b></a>
+                <a class="alt" id="kundvagn" href="./kundvagn.html"><b>Kundvagn</b></a>
             </div>
         </div>
         <div class="page_cont">
@@ -80,8 +80,8 @@
                         <a class="antal_text">Antal:</a>
                         <input id="prod_antal_box" placeholder="1">
                     </div>
-                    <div class="next_box">
-                        <div class="next_köp">
+                    <div class="next_box" onclick='document.getElementById("kundvagn").href = "./kundvagn2.html"'>
+                        <div class="next_köp" onclick='document.getElementById("kundvagn").innerHTML = "<b>Kundvagn (1)</b>"'>
                             <b class="next_köp_text">Lägg till i kundvagn</b>
                         </div>
                     </div>

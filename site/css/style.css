@@ -86,7 +86,7 @@ body{
     justify-content: space-around;
 }
 
-.alt{
+.alt, #kundvagn{
     color: rgba(0,0,0,0.87);
 }
 
