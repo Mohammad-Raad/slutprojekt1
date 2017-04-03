@@ -175,6 +175,33 @@ a, p{
     margin: 5%;
 }
 
+.kundvagn2_p{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgba(203,203,203,0.20);
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 10%;
+    margin: 3%;
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+}
+
+.kundvagn_p_antal{
+    margin-left: -10%;
+}
+
+.kundvagn_p_pris{
+    margin-left: 10%;
+}
+
+.kundvagn_p_prod{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
 .info_om{
     font-size: 15px;
     font-style: italic;
