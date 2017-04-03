@@ -13,3 +13,4 @@ function alertKund() {
     alert("Produkten är lagd i din kundvagn!");
     document.getElementById("kundvagn").href = "./kundvagn2.html";
 }
+

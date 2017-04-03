@@ -273,7 +273,19 @@ a, p{
     margin: 10px 5% 1px 5px;
 }
 
-.next, .next_köp{
+.next_s{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+    width: 60px;
+    height: 30px;
+    background-color: rgba(203,203,203,0.20);
+    color: rgba(0,0,0,0.87);
+}
+
+.next, .next_köp, .prev{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -435,4 +447,53 @@ a, p{
 
 #ordernummer{
     margin-bottom: 5%;
+}
+
+* {box-sizing:border-box}
+
+.mySlides {display:none}
+
+.prod_img_desc {
+    max-width: 400px;
+    position: relative;
+    margin: auto;
+}
+.prev, .next {
+    margin-top: 25%;
+    cursor: pointer;
+    padding: 16px;
+    color: rgba(0,0,0,0.87);
+    font-weight: bold;
+    font-size: 30px;
+    transition: 0.4s ease;
+}
+
+.next {
+    right: 0;
+    margin-right: 3%;
+}
+
+.prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.5);
+}
+
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.25s;
+    animation-name: fade;
+    animation-duration: 1.25s;
+}
+
+@-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+
+@media only screen and (max-width: 300px) {
+    .prev, .next,.text {font-size: 11px}
 }
