@@ -18,31 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="kassa.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/kassa.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="70" column="76" lean-forward="false" selection-start-line="70" selection-start-column="76" selection-end-line="70" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="checkout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/checkout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="569">
+              <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="18">
+              <caret line="1" column="236" lean-forward="false" selection-start-line="1" selection-start-column="236" selection-end-line="1" selection-end-column="236" />
               <folding />
             </state>
           </provider>
@@ -51,8 +41,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="430" column="22" lean-forward="false" selection-start-line="430" selection-start-column="22" selection-end-line="430" selection-end-column="22" />
+            <state relative-caret-position="612">
+              <caret line="435" column="0" lean-forward="false" selection-start-line="435" selection-start-column="0" selection-end-line="435" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,13 +82,13 @@
       <find>cost_p</find>
       <find>cost</find>
       <find>alt</find>
-      <find>kundvagn_p</find>
       <find>text-indent</find>
       <find>page_cont</find>
       <find>page_</find>
       <find>formular</find>
       <find>a, p</find>
       <find>button</find>
+      <find>kundvagn_p</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,10 +113,10 @@
         <option value="$PROJECT_DIR$/site/js/kundvagn.js" />
         <option value="$PROJECT_DIR$/site/js/kassa.js" />
         <option value="$PROJECT_DIR$/site/produkt.html" />
-        <option value="$PROJECT_DIR$/site/css/style.css" />
-        <option value="$PROJECT_DIR$/site/js/main.js" />
         <option value="$PROJECT_DIR$/site/kassa.html" />
+        <option value="$PROJECT_DIR$/site/css/style.css" />
         <option value="$PROJECT_DIR$/site/checkout.html" />
+        <option value="$PROJECT_DIR$/site/js/main.js" />
       </list>
     </option>
   </component>
@@ -344,12 +334,12 @@
       <workItem from="1490868203462" duration="7549000" />
       <workItem from="1490970565466" duration="1893000" />
       <workItem from="1491081488289" duration="10064000" />
-      <workItem from="1491211326468" duration="4414000" />
+      <workItem from="1491211326468" duration="5694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106135000" />
+    <option name="totallyTimeSpent" value="107415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -610,14 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/kundvagn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/smycken.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -642,34 +624,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/css/style.css">
+    <entry file="file://$PROJECT_DIR$/site/kassa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="430" column="22" lean-forward="false" selection-start-line="430" selection-start-column="22" selection-end-line="430" selection-end-column="22" />
+        <state relative-caret-position="1566">
+          <caret line="87" column="7" lean-forward="true" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/js/main.js">
+    <entry file="file://$PROJECT_DIR$/site/kundvagn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state relative-caret-position="-385">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="435" column="0" lean-forward="false" selection-start-line="435" selection-start-column="0" selection-end-line="435" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/checkout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="569">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/kassa.html">
+    <entry file="file://$PROJECT_DIR$/site/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="70" column="76" lean-forward="false" selection-start-line="70" selection-start-column="76" selection-end-line="70" selection-end-column="76" />
+        <state relative-caret-position="18">
+          <caret line="1" column="236" lean-forward="false" selection-start-line="1" selection-start-column="236" selection-end-line="1" selection-end-column="236" />
           <folding />
         </state>
       </provider>

@@ -172,7 +172,9 @@ a, p{
 .kundvagn_p{
     display: flex;
     justify-content: center;
+    align-items: center;
     margin: 5%;
+    flex-direction: column;
 }
 
 .sum_info{
@@ -430,3 +432,4 @@ a, p{
     text-decoration: none;
     visibility: hidden;
 }
+

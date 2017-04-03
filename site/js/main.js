@@ -1,3 +1,6 @@
+function orderNummer() {
+    document.querySelector("#ordernummer").innerHTML = "Order nummer: " + "#" + Math.floor(Math.random() * 9999) + "-" + Math.floor(Math.random() * 9999) + "-" + Math.floor(Math.random() * 9999) + "-" + Math.floor(Math.random() * 9999);
+}
 
 function betalning(){
     document.querySelector(".formular_s").style.visibility="visible";
