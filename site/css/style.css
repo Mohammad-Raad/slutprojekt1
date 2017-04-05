@@ -498,3 +498,56 @@ a, p{
     .prev, .next,.text {font-size: 11px}
 }
 
+.prod_allt_holder{
+    display: flex;
+    flex-direction: row;
+}
+
+
+@media (max-width:768px) {
+    .page{
+        margin-top: 10px;
+        margin-bottom: 5px;
+        border-radius: 2px;
+        width: 600px;
+        margin-left: -42%;
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+    }
+
+    body{
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #ffbff5;
+        width: 130vh;
+        height: 100%;
+
+    }
+
+    .container{
+        -webkit-font-smoothing: antialiased;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+
+    .prod_img_desc{
+        justify-content: center;
+        margin-top: -5%;
+    }
+
+    .prod_info{
+        flex-direction: column;
+    }
+
+    html{
+       padding-right: 1000px;
+    }
+
+}
