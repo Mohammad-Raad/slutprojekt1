@@ -527,6 +527,13 @@ a, p{
 
     }
 
+    body {
+        overflow: hidden;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
     .container{
         -webkit-font-smoothing: antialiased;
         display: flex;
